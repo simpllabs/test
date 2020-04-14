@@ -256,5 +256,5 @@
 }
 
 a.demo-selector {
-  color: #fff;
+  color: #fff !important;
 }
