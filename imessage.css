@@ -255,6 +255,6 @@
   background: -moz-linear-gradient(top, #34a7fc, #2297fd)
 }
 
-.demo-selector a {
+a.demo-selector {
   color: #fff;
 }
