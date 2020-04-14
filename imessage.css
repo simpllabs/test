@@ -254,3 +254,7 @@
   background: -webkit-gradient(linear, left top, left bottom, from(#34a7fc), to(#2297fd));
   background: -moz-linear-gradient(top, #34a7fc, #2297fd)
 }
+
+.demo-selector a {
+  color: #fff;
+}
