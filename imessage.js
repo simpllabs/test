@@ -6904,7 +6904,7 @@
               ],
               gifts: [
                   [1e3, "right", "Hey! I'm about to place an order but I wanted to check on shipping times. How long does this item take to ship?"],
-                  [1e3, "left", "Hey! Thanks for reaching out. We ship out all orders next day with USPS."],
+                  [3e3, "left", "Hey! Thanks for reaching out. We ship out all orders next day with USPS."],
                   [3e3, "right", "Ok! Thanks so much."],
                   [4e3, "left", "Of course. Let me know if I can help with anything else."],
               ],
