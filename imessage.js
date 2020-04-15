@@ -6919,7 +6919,7 @@
                   [3e3, "left", "All set, table for 2 under your name at 8pm."]
               ],
               travel: [
-                  [1e3, "right", "Could you look up flights back to DC for Thanksgiving?"],
+                  [1e3, "right", "Could you look up flights back to DC for BOO?"],
                   [2e3, "left", "Sure thing. I'll check OneWorld flights first since you're a member."],
                   [3e3, "left", "Okay, have SFO -> DCA on Virgin, departing at 8:30am on 11/23 and returning at 10a on 11/30."],
                   [2e3, "right", "I have something on the 23rd. Need a flight departing on the 24th"],
