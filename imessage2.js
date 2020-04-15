@@ -6383,14 +6383,6 @@ function(e) {
     }), vt ? (module.exports = it, nt(!0)) : "function" == typeof define && define.amd ? define("moment", function(t, n, i) {
         return i.config && i.config() && i.config().noGlobal !== !0 && nt(i.config().noGlobal === e), it
     }) : nt()
-}.call(this),
-function(e) {
-    if ("function" == typeof define && define.amd) define(["jquery", "moment"], e);
-    else {
-        if (!jQuery) throw "bootstrap-datetimepicker requires jQuery to be loaded first";
-        if (!moment) throw "bootstrap-datetimepicker requires moment.js to be loaded first";
-        e(jQuery, moment)
-    }
 }
 function() {}.call(this),
 function() {
@@ -6566,15 +6558,5 @@ function() {
             })
         })
     })
-}.call(this),
-function() {
-    $(document).ready(function() {
-        return $("#waitlist form").on("ajax:beforeSend", function() {
-            return $("#waitlist").on("hidden.bs.modal", function() {
-                return $("#waitlist-confirmation").modal("show")
-            }), $(".modal-footer input").prop("disabled", !0).val("Joining...")
-        }), $("#waitlist form").on("ajax:success", function() {
-            return $(".modal-footer input").prop("disabled", !1).val("Join Waitlist"), $("#waitlist").modal("hide")
-        }), $("#datetimepicker").datetimepicker()
-    })
+}
 }.call(this);
