@@ -6909,13 +6909,14 @@
                   [4e3, "left", "Of course. Let me know if I can help with anything else."],
               ],
               reservations: [
-                  [1e3, "right", "Can you recommend a good Italian restaurant around my house?"],
-                  [1e3, "left", "Sure thing, checking now."],
-                  [2e3, "left", "How aobut Beretta on 23rd and Valencia?"],
-                  [1e3, "right", "Awesome. Can you book a table for 6 at 7:30pm?"],
-                  [2e3, "left", "Unfortunately nothing is open till 8pm. Should I book a table then?"],
-                  [1e3, "right", "Yes please."],
-                  [3e3, "left", "All set, table for 6 at Beretta under your name at 8pm."]
+                  [1e3, "right", "Hey! I saw great reviews for your restaurant and just wanted to see if you all had any vegetarian options?"],
+                  [1e3, "left", "Thanks for reaching out! Let me check."],
+                  [2e3, "left", "Yes! We have a homemade veggie burger and we can make any of our pasta dishes vegetarian."],
+                  [1e3, "left", "Would you like to make a reservation for tonight?"],
+                  [2e3, "right", "That's perfect! I'm craving a veggie burger. Can I do 8pm for 2?"],
+                  [2e3, "left", "Of course! Can I just get  name for the reservation?"],
+                  [1e3, "right", "Alice"],
+                  [3e3, "left", "All set, table for 2 under your name at 8pm."]
               ],
               travel: [
                   [1e3, "right", "Could you look up flights back to DC for Thanksgiving?"],
