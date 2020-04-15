@@ -10,7 +10,7 @@
           return "function" === n || ot.isWindow(e) ? !1 : 1 === e.nodeType && t ? !0 : "array" === n || 0 === t || "number" == typeof t && t > 0 && t - 1 in e
       }
 
-      function i(e, t, n) {
+      function i(e, t, n) {nex 
           if (ot.isFunction(t)) return ot.grep(e, function(e, i) {
               return !!t.call(e, i, e) !== n
           });
@@ -6905,7 +6905,9 @@
               gifts: [
                   [1e3, "right", "Hey! I'm about to place an order but I wanted to check on shipping times. How long does this item take to ship?"],
                   [3e3, "left", "Hey! Thanks for reaching out. We ship out all orders next day with USPS."],
+                  [3e3, "left", "Which means you should have it within 3-5 days after it ships out."],
                   [3e3, "right", "Ok! Thanks so much."],
+                   [3e3, "right", "I'm so eccited to try out the  product."],
                   [4e3, "left", "Of course. Let me know if I can help with anything else."],
               ],
               reservations: [
