@@ -6911,7 +6911,7 @@ function() {
                 [4e3, "left", "Of course. Let me know if I can help with anything else."],
             ],
             reservations: [
-                [1e3, "right", "Hey! I saw great reviews for your restaurant and just wanted to see if you all had any vegetarian options?"],
+                [0e3, "right", "Hey! I saw great reviews for your restaurant and just wanted to see if you all had any vegetarian options?"],
                 [1e3, "left", "Thanks for reaching out! Let me check."],
                 [2e3, "left", "Yes! We have a homemade veggie burger and we can make any of our pasta dishes vegetarian."],
                 [1e3, "left", "Would you like to make a reservation for tonight?"],
