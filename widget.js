@@ -850,7 +850,7 @@ function closePopup() {
 /* 10 */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"help-widget-popup\">\n  <div class=\"\">\n    <div class=\"help-widget-popup-header\">\n      <h1>Hey 👋</h1>\n    </div>\n    <div class=\"help-widget-popup-content\">\n      <h2>Have questions?</h2>\n      <a target=\"_blank\" href=\"https://instatus.com/chat\" class=\"help-widget-popup-option\">Text Us!</a>\n      <a target=\"_blank\" href=\"https://instatus.com/help\" class=\"help-widget-popup-option\">Check help</a>\n      <a target=\"_blank\" href=\"mailto:ali@instatus.com\" class=\"help-widget-popup-option\">Send an email</a>\n    </div>\n  </div>\n</div>";
+module.exports = "<div class=\"help-widget-popup\">\n  <div class=\"\">\n    <div class=\"help-widget-popup-header\">\n      <h1>Hey 👋</h1>\n    </div>\n    <div class=\"help-widget-popup-content\">\n      <h2>Have questions?</h2>\n      <a target=\"_blank\" href=\"sms:5123324556\" class=\"help-widget-popup-option\">Text Us!</a>\n      <a target=\"_blank\" href=\"https://instatus.com/help\" class=\"help-widget-popup-option\">DM Us</a>\n      <a target=\"_blank\" href=\"mailto:help@contactlist.io\" class=\"help-widget-popup-option\">Send an email</a>\n    </div>\n  </div>\n</div>";
 
 /***/ }),
 /* 11 */
