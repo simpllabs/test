@@ -965,7 +965,7 @@
     /***/
     (function(module, exports) {
 
-        module.exports = "<div class=\"help-widget-popup\">\n  <div class=\"\">\n    <div class=\"help-widget-popup-header\">\n      <h1>Hey 👋</h1>\n    </div>\n    <div class=\"help-widget-popup-content\">\n      <h2>Have a question?</h2>\n      <a target=\"_blank\" href=\"sms:7138554833\" class=\"help-widget-popup-option\">Text Us!</a>\n  <a target=\"_blank\" href=\"mailto:help@contactlist.io\" class=\"help-widget-popup-option\">Send an email</a>\n    </div>\n  </div>\n</div>";
+        module.exports = "<div class=\"help-widget-popup\">\n  <div class=\"\">\n    <div class=\"help-widget-popup-header\">\n      <h1>Hey 👋</h1>\n    </div>\n    <div class=\"help-widget-popup-content\">\n      <h2>Have a question?</h2>\n      <a target=\"_blank\" href=\"sms:7138554833\" class=\"help-widget-popup-option\">Text Us!</a>\n  <a target=\"_blank\" href=\"mailto:hello@simplfulfillment.com\" class=\"help-widget-popup-option\">Send an email</a>\n    </div>\n  </div>\n</div>";
 
         /***/
     }),
